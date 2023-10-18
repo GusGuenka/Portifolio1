@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #08313a
+}
+
+.line{
+    color: white;
+    font-size: 36px;
+    font-family: sans-serif;
+}
+
+.othe_line{
+    color:#22d7ff
+}
+.port{
+    font-family:sans-serif;
+    font-size: 24px;
+}
+.raiz_port{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 10% 12.5%;
+}
+.port_texts{
+    width: 615px;
+    flex-direction: column;
+    gap: 40px; 
+    display: flex;
+}
+.sociais{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sociais_2{
+    background-color: #22D4FD;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+    color: #000;
+    font-family: Montserrat, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-align: center;
+    text-decoration: none;
+    width: 280px;
+}   
+
+.port{
+    color: white;
+}
+
+.img{
+    height: 40%;
+    width: 40%;
+}
